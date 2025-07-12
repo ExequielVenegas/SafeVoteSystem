@@ -1,3 +1,7 @@
+package thread;
+
+import model.PrimesList;
+
 public class ConsumidorThread implements Runnable {
     private final PrimesList primesList;
 

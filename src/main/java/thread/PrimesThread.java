@@ -1,3 +1,7 @@
+package thread;
+
+import model.PrimesList;
+
 import java.util.Random;
 
 public class PrimesThread implements Runnable {

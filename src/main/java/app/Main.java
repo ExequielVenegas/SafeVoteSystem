@@ -1,3 +1,10 @@
+package app;
+
+import model.FileHandler;
+import model.PrimesList;
+import thread.ConsumidorThread;
+import thread.PrimesThread;
+
 import java.util.List;
 
 public class Main {
